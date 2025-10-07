@@ -5,7 +5,7 @@
 .Rproj.user/
 
 # RStudio project files
-*.Rproj
+#*.Rproj
 
 # System files
 .DS_Store
