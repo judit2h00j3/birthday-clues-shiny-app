@@ -1,0 +1,12 @@
+# R-specific
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project files
+*.Rproj
+
+# System files
+.DS_Store
+Thumbs.db
